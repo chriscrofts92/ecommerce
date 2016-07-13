@@ -1,0 +1,10 @@
+{
+  "name": "ecommerce",
+  "description": "This is my first full stack javascript application",
+  "main": "index.js",
+  "authors": [
+    "Chris C"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/chriscrofts92/ecommerce"
+}
